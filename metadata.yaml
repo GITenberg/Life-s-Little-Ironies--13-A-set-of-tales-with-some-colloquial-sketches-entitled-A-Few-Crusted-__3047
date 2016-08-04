@@ -1,0 +1,31 @@
+_repo: Life-s-Little-Ironies--13-A-set-of-tales-with-some-colloquial-sketches-entitled-A-Few-Crusted-__3047
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: ''
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The son's veto -- For conscience' sake -- A tragedy of two ambitions
+  -- On the western circuit -- To please his wife -- The melancholy hussar of the
+  German legion -- The fiddler of the reels -- A tradition of 1804 -- A few crusted
+  characters.
+title: "Life's Little Ironies\r\nA set of tales with some colloquial sketches entitled\
+  \ A Few Crusted Characters"
+url: http://www.gutenberg.org/ebooks/3047
